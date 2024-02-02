@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 I'm currently a computer engineering student at Toronto Metropolitan University who's passionate about collaborating with people and making projects. Whether I'm diving into the intricacies of code or brainstorming innovative solutions, I thrive on turning ideas into tangible tech realities. Outside the digital realm, you might find me exploring the latest tech trends, or experimenting with new coding languages. Let's connect and create something awesome together!
 
